@@ -1,7 +1,7 @@
 # 3keysinternational.org
 Current iteration of the 3keysinternational.org website.
 
-#To do list
+# To do list
 - Transfer current layout to Boostrap
 - Port website to use PHP instead of standard HTML
 - Clean-up redundant code
